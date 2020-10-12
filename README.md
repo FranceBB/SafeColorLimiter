@@ -17,7 +17,9 @@ The idea is to automatize clipping to get a broadcast safe output in Limited TV 
 <br>
 It supports y8, y10, y12, y14, y16, y32, yv12, YUY2, yv16, yv24 and 
 <br>
-YUV 4:2:0 planar, YUV 4:1:1 planar, YUV 4:2:2 planar, YUV 4:4:4 planar 10-12-14-16-32bit.
+YUV 4:2:0 planar, YUV 4:1:1 planar, YUV 4:2:2 planar, YUV 4:4:4 planar 10-12-14-16-32bit
+<br>
+including those with Alpha Channels.
 <br>
 If the input is in RGB, it will just return the input untouched.
 <br>
