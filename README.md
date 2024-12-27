@@ -1,5 +1,5 @@
 # SafeColorLimiter
-The idea is to automatize clipping to get a broadcast safe output in Limited TV Range (0.0-0.7mV).
+The idea is to automatize clipping to get a broadcast safe output in Limited TV Range (0.0-0.7V).
 <br>
 8bit sources will be limited to 16 - 235 luma and 16 - 240 chroma
 <br>
